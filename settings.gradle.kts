@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "mobileApp"
-include(":app")
+include(":app_grid_ui")
 include(":w03_compose_coffee")
